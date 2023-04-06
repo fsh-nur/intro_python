@@ -1,4 +1,4 @@
-# print("Hello World!")
+print("Hello World!")
 
 # What is a variable?
 # variable_name = variable_data
@@ -51,16 +51,16 @@
 #     Extra Task:
 #     Output the data back to the user
 
-print("Input your details please: ")
-print("Firstname: ")
-first_name = input()
-print("Surname: ")
-surname = input()
-print("Age: ")
-age = input()
-print("DOB?: ")
-DOB = input()
-print("Address: ")
-address = input()
-print("Postcode: ")
-postcode = input()
+# print("Input your details please: ")
+# print("Firstname: ")
+# first_name = input()
+# print("Surname: ")
+# surname = input()
+# print("Age: ")
+# age = input()
+# print("DOB?: ")
+# DOB = input()
+# print("Address: ")
+# address = input()
+# print("Postcode: ")
+# postcode = input()
